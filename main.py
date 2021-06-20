@@ -1,2 +1,3 @@
 def main():
-print("Gabrielle Giordano")
+  print("Gabrielle Giordano")
+main()
